@@ -23,3 +23,9 @@ For the second half of this assignment, we implemented a portion of the first pr
 [<img width="500" alt="Pizza creation screen" src="https://user-images.githubusercontent.com/4561733/100676416-dafa0100-3336-11eb-9d5d-50f82867830e.png">](https://github.com/TeamErrorByNight2020/pizza-prototype-gui)
 
 View code & Download at [github.com/TeamErrorByNight2020/pizza-prototype-gui](https://github.com/TeamErrorByNight2020/pizza-prototype-gui)
+
+### Video Presentation
+
+Finally, created a video which presents this project.
+
+<iframe width="1905" height="832" src="https://www.youtube.com/embed/mjGFhy8PlTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
