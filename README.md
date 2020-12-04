@@ -28,4 +28,4 @@ View code & Download at [github.com/TeamErrorByNight2020/pizza-prototype-gui](ht
 
 Finally, created a video which presents this project.
 
-<iframe width="1905" height="832" src="https://www.youtube.com/embed/mjGFhy8PlTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="533" height="300" src="https://www.youtube.com/embed/mjGFhy8PlTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
